@@ -63,7 +63,11 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatrixDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 <a href="https://github.com/DatrixDev" title="DatrixDev">
- <img src="https://github-readme-stats.vercel.app/api?username=DatrixDev&show_icons=true&theme=radical" alt="stats" />
+  <img 
+    align="right" 
+    width="394" 
+    src="https://github-readme-stats.vercel.app/api?username=DatrixDev&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&show_icons=true&hide_border=true" 
+  />
 </a>
 
 

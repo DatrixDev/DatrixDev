@@ -53,21 +53,26 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
+<br><h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align="center">
-  <a href="https://github.com/DatrixDev" title="DatrixDev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatrixDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+  <a href="https://github.com/DatrixDev" title="Top Languages">
+    <img 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatrixDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+      alt="Most Used Languages"
+    />
   </a>
-<a href="https://github.com/DatrixDev" title="DatrixDev">
-  <img 
-    align="right" 
-    width="394" 
-    src="https://github-readme-stats-datrixdev.vercel.app/api?username=DatrixDev&count_private=true&include_all_commits=true&show_icons=true&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&hide_border=true" 
-  />
-</a>
+
+  <a href="https://github.com/DatrixDev" title="GitHub Stats">
+    <img 
+      height="200" 
+      src="https://github-readme-stats-datrixdev.vercel.app/api?username=DatrixDev&count_private=true&include_all_commits=true&show_icons=true&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&hide_border=true"
+      alt="DatrixDev GitHub Stats"
+    />
+  </a>
+</div>
 
 
 

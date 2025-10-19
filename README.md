@@ -65,7 +65,8 @@
   <img 
     align="right" 
     width="394" 
-    src="https://github-readme-stats.vercel.app/api?username=DatrixDev&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&show_icons=true&hide_border=true" 
+    src="[https://github-readme-stats.vercel.app/api?username=DatrixDev&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&show_icons=true&hide_border=true](https://github-readme-stats-datrixdev.vercel.app/api?username=DatrixDev&count_private=true&include_all_commits=true&show_icons=true
+)" 
   />
 </a>
 

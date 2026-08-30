@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<br>
+<!-- <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">
@@ -60,4 +60,4 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/DatrixDev-quotes.svg" width="846" height="150" />
-</a>
+</a> -->

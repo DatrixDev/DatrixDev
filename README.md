@@ -1,10 +1,7 @@
 <a href="#" target="_blank">
   <img src="svg/DatrixDev.svg" width="1200" alt="trungquandev-official" />
 </a>
-<br>
-
-![snake gif](svg/snake.svg)
-<br>
+<!-- <br>  ![snake gif](svg/snake.svg) <br> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2> <br> 
 <div align="center">

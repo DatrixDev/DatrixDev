@@ -2,7 +2,6 @@
   <img src="svg/DatrixDev.svg" width="1200" alt="trungquandev-official" />
 </a> -->
 <!-- <br>  ![snake gif](svg/snake.svg) <br> -->
-<br>
 <h2 align="center">GitHub Stats</h2> <br> 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;"> 
   <a href="https://github.com/DatrixDev" title="DatrixDev"> 

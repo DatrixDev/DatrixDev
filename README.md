@@ -1,6 +1,7 @@
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/DatrixDev.svg" width="1200" alt="trungquandev-official" />
-</a>
+</a> -->
+
 <!-- <br>  ![snake gif](svg/snake.svg) <br> -->
 
 

@@ -11,6 +11,7 @@
     <img width="380" src="https://github-readme-stats-datrixdev.vercel.app/api?username=DatrixDev&count_private=true&include_all_commits=true&show_icons=true&bg_color=20232A&title_color=61D9FA&text_color=FFFFFF&icon_color=61D9FA&hide_border=true" /> 
   </a>
 </div>
+<h1 align="center">❝When our ego is bigger than our desire to learn, we see feedback as an insult❞</h1> <br> 
 
 <!-- <br>
 <h2 align="center">👽 Where to find me 👽</h2>
